@@ -10,4 +10,4 @@
 </div>
 <br><br>
 
-<img align="center" height="200px" src="https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"/>
+<img height="200px" src="https://raspberry-valley.azurewebsites.net/img/Python-01.jpg"/>
