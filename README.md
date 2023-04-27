@@ -6,5 +6,5 @@
 <br><br>
 
 <div>
-  <img height="20em" src="https://cdn-icons-png.flaticon.com/512/197/197484.png"/> Those are exercizes made in python during my 2º year in my development course
+  <img height="20em" src="https://cdn-icons-png.flaticon.com/512/197/197484.png"/> Those are exercizes made by me in python during my 2º year in my development course
 </div>
